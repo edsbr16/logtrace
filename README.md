@@ -215,11 +215,11 @@ LogTrace is built for educational purposes and security research only. It is des
 
 ## About
 
-Built by [your name] as part of a cybersecurity portfolio.
+Built by Erica as part of a cybersecurity portfolio.
 
 Background in digital forensics, network analysis, and security investigation. Currently studying Computer Science at Durham University.
 
-[GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/edsbr16) · [LinkedIn](https://linkedin.com/in/ericadasilva16)
 
 ---
 
